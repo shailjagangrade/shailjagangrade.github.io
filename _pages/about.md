@@ -15,7 +15,7 @@ Shailja's research employs oceanographic observations to investigate planktonic 
 
 Coastal upwelling dynamics & phytoplankton communities
 ------
-Wind-driven coastal upwelling is spatially and temporally dynamic. Upwelling-favorable winds drives "pulses" of nutrient-rich water into the sunlit water column. This process results the development of phytoplankton patches at the coast that are rapidly transported offshore. Identifying the location and composition of these patches is important in diagnoising potential ecological hotspots and feeding grounds for zooplankton, fishes, seabirds, and marine mammals.
+Wind-driven coastal upwelling is spatially and temporally dynamic. Upwelling-favorable winds drives "pulses" of nutrient-rich water into the sunlit water column. This process results in the development of phytoplankton patches at the coast that are rapidly transported offshore. Identifying the location and composition of these patches is important in diagnoising potential ecological hotspots and feeding grounds for zooplankton, fishes, seabirds, and marine mammals.
 
 (Sub)mesoscale ocean stirring & plankton succession
 ------
@@ -23,7 +23,7 @@ Swirling ocean currents are able to tranport passively drifting plankton hundred
 
 Ecological impacts of extreme terrestrial precipitation 
 ------
-Extreme precipitation events on land can result in high amounts of freshwater discharge into the ocean, with important implications for nutrient and carbon cycling. By using a combination of detailed dphysical and biogeochemical measurements, we can evaluate how freshwater communities might be distinct from surrounding ocean waters, and we can characterize the rapid transport of such waters into the offshore oligotrophic (low-nutrient) region.
+Extreme precipitation events on land can result in high amounts of freshwater discharge into the ocean, with important implications for nutrient and carbon cycling. By using a combination of physical and biogeochemical measurements, we can evaluate how freshwater communities might be distinct from surrounding ocean waters, and we can characterize the rapid transport of such waters into the offshore oligotrophic (low-nutrient) region.
 
 How the ocean feeds us
 ------
