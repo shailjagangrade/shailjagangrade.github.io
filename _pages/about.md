@@ -9,15 +9,20 @@ redirect_from:
 
 Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is Postdoctoral Researcher and Pre-College Instructor in the Department of Earth, Environmental & Planetary Sciences at Brown University.
 
-Coastal to Open-Ocean Ecosystem Studies
+From  Land to Sea: Investigating Ecosystem Transitions Across Shore
 ======
-Shailja's research explore land-to-sea ecosystem connections.
+Shailja's research employs oceanographic observations to explore planktonic ecosystem dynamics from coastal waters, influenced by terrestrial precipitation, to the offshore open ocean.
 
-Planktonic ecosystem succession
+Coastal upwelling dynamics & phytoplankton communities
 ------
 Information will be added here.
 
-Physical-biological interactions
+(Sub)mesoscale ocean stirring & plankton succession
 ------
 Information will be added here.
+
+Ecological impacts of extreme terrestrial precipitation 
+------
+Information will be added here.
+
 
