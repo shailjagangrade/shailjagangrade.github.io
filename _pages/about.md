@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is currently a Postdoctoral Researcher and Instructor in the Department of Earth, Environmental & Planetary Sciences at Brown University.
+Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is currently a Postdoctoral Researcher and Pre-College Instructor in the Department of Earth, Environmental & Planetary Sciences at Brown University.
 
 Land-Sea Connections: Investigating Ecosystem Transitions Across Ocean Margins
 ======
@@ -27,7 +27,7 @@ Extreme precipitation events on land can result in high amounts of freshwater di
 
 How the ocean feeds us
 ------
-How do regional ocean dynamics play a role in sustaining robust commercial and subsistence fisheries? In regions such as Alaska and Rhode Island, changing land and ocean conditions lead to spatiotemporal shifts in  food sources, such as salmon and shellfish. Shailja's teaching incorporates experiential studies of the the physical and biogeochemical dynamics that contribute to ecosystems that local and native communities rely on for food security. To learn more, visit the "Teaching" page.
+How do regional ocean dynamics play a role in sustaining robust commercial and subsistence fisheries? In regions such as Alaska and Rhode Island, changing land and ocean conditions lead to spatiotemporal shifts in  food sources, such as salmon and shellfish. Shailja's teaching incorporates experiential studies of the  physical and biogeochemical dynamics of ecosystems that local and native communities rely on for food security. To learn more, visit the "Teaching" page.
 
 
 
