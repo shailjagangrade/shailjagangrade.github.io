@@ -17,13 +17,13 @@ Coastal upwelling dynamics & phytoplankton communities
 ------
 Wind-driven coastal upwelling is spatially and temporally dynamic. Upwelling-favorable winds drives "pulses" of nutrient-rich water into the sunlit water column. This process results in the development of phytoplankton patches at the coast that are rapidly transported offshore. Identifying the location and composition of these patches is important in diagnoising potential ecological hotspots and feeding grounds for zooplankton, fishes, seabirds, and marine mammals.
 
-<center><p align="center" style="max-width:25%;"><img src="../images/front-schematic-Gangrade-Franks-2023.png" /></p></center>
+<center><p align="center" style="max-width:75%;"><img src="../images/front-schematic-Gangrade-Franks-2023.png" /></p></center>
 
 (Sub)mesoscale ocean stirring & plankton succession
 ------
 Swirling ocean currents are able to tranport passively drifting plankton hundreds of kilometers within several days. Therefore, as entire planktonic ecosystems are transported, they also undergo ecological succession: communities shift from large to small phytoplankton, and zooplankton such as copepods proliferate in response to prey populations. Stationary measurements by ships or sensor platforms often only capture a "patch" of plankton passing by, but particle-tracking techniques allow us to reconstruct the histories of water parcels to evaluate how ecosystems change along these trajectories.
 
-<center><p align="center" style="max-width:25%;"><img src="../images/front-schematic-Gangrade-Mangolte-2024.png" /></p></center>
+<center><p align="center" style="max-width:75%;"><img src="../images/front-schematic-Gangrade-Mangolte-2024.png" /></p></center>
 
 
 Ecological impacts of extreme terrestrial precipitation 
