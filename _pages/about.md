@@ -11,7 +11,7 @@ Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is currently a Postdoctora
 
 From  Land to Sea: Investigating Ecosystem Transitions Across Shore
 ======
-Shailja's research employs oceanographic observations to investigate planktonic ecosystem dynamics from coastal waters to the offshore open ocean. Shailja's teaching also centers around marine ecosystem dynamics, in particular the exploration of how ecosystems are shaped by environmental conditions and gradients, as well as a land- and sea-scape influenced by humans.
+Shailja's research employs oceanographic observations to investigate planktonic ecosystem dynamics from coastal waters to the offshore open ocean. Shailja's teaching also centers around marine ecosystem dynamics, in particular the exploration of how ecosystems are shaped by environmental conditions and gradients -- as well as human impacts.
 
 Coastal upwelling dynamics & phytoplankton communities
 ------
