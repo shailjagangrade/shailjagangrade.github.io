@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is currently a Postdoctoral Researcher and Pre-College Instructor in the Department of Earth, Environmental & Planetary Sciences at Brown University.
+Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is currently a Postdoctoral Researcher and Instructor in the Department of Earth, Environmental & Planetary Sciences at Brown University.
 
 From  Land to Sea: Investigating Ecosystem Transitions Across Shore
 ======
