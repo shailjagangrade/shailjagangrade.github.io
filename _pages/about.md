@@ -30,8 +30,10 @@ Ecological impacts of extreme terrestrial precipitation
 ------
 Extreme precipitation events on land can result in high amounts of freshwater discharge into the ocean, with important implications for nutrient and carbon cycling. By using a combination of physical and biogeochemical measurements, we can evaluate how freshwater communities might be distinct from surrounding ocean waters, and we can characterize the rapid transport of such waters into offshore oligotrophic (low-nutrient) regions.
 
-<center><p align="center" style="max-width:50%;"><img src="../images/atmospheric_river_NOAA_LATimes.jpeg" /></p></center>
-Image credit: NOAA and LA Times
+<center><p align="center" style="max-width:75%;"><img src="../images/atmospheric_river_NOAA_LATimes.jpeg" /></p></center>
+<!-- <p style="text-align:center;">Image credit: NOAA and LA Times</p> -->
+<center><p align="center">Image credit: NOAA and LA Times</p></center>
+
 <!-- <center><p align="center" style="max-width:50%;"><img src="../images/california_flooding_DavidMcNew_GettyImages.jpg" /></p></center> -->
 
 
