@@ -23,16 +23,21 @@ Wind-driven coastal upwelling is spatially and temporally dynamic. Upwelling-fav
 ------
 Swirling ocean currents are able to tranport passively drifting plankton hundreds of kilometers within several days. Therefore, as entire planktonic ecosystems are transported, they also undergo ecological succession: communities shift from large to small phytoplankton, and zooplankton such as copepods proliferate in response to prey populations. Stationary measurements by ships or sensor platforms often only capture a "patch" of plankton passing by, but particle-tracking techniques allow us to reconstruct the histories of water parcels to evaluate how ecosystems change along these trajectories.
 
-<center><p align="center" style="max-width:75%;"><img src="../images/front-schematic-Gangrade-Mangolte-2024.png" /></p></center>
+<center><p align="center" style="max-width:50%;"><img src="../images/front-schematic-Gangrade-Mangolte-2024.png" /></p></center>
 
 
 Ecological impacts of extreme terrestrial precipitation 
 ------
 Extreme precipitation events on land can result in high amounts of freshwater discharge into the ocean, with important implications for nutrient and carbon cycling. By using a combination of physical and biogeochemical measurements, we can evaluate how freshwater communities might be distinct from surrounding ocean waters, and we can characterize the rapid transport of such waters into offshore oligotrophic (low-nutrient) regions.
 
+<center><p align="center" style="max-width:50%;"><img src="../images/atmospheric_river_NOAA_LATimes.jpeg" /></p></center>
+Image credit: NOAA and LA Times
+<!-- <center><p align="center" style="max-width:50%;"><img src="../images/california_flooding_DavidMcNew_GettyImages.jpg" /></p></center> -->
+
+
 How the ocean feeds us
 ------
-How do regional ocean dynamics play a role in sustaining robust commercial and subsistence fisheries? In regions such as Alaska and Rhode Island, changing land and ocean conditions lead to spatiotemporal shifts in  food sources, such as salmon and shellfish. Shailja's teaching incorporates experiential studies of the  physical and biogeochemical dynamics of ecosystems that local and native communities rely on for food security. To learn more, visit the "Teaching" page.
+How do regional ocean dynamics play a role in sustaining robust commercial and subsistence fisheries? In regions such as Alaska and Rhode Island, changing land and ocean conditions lead to spatiotemporal shifts in  food sources, such as salmon and shellfish. Shailja's teaching incorporates experiential studies of the  physical and biogeochemical dynamics of ecosystems that local and native communities rely on for food security. To learn more, visit the [Teaching](https://shailjagangrade.github.io/teaching/) page.
 
 
 
