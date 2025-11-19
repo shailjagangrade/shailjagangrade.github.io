@@ -20,14 +20,14 @@ author_profile: true
 
 ## 2025
 
-### Marine Ecosystem Dynamics
+### Ocean Ecosystem Dynamics
 
 *UC San Diego Academic Connections Pre-College Course, In-Person*
   * *Course Description*: During this course, students are introduced to the biological and physical dynamics of ocean ecosystems. In particular, we explore the key physical, biological, and chemical characteristics of a variety of ocean ecosystems (e.g., coral reef, open ocean, deep-sea whale fall), as well as important interactions and relationships between organisms. This course includes field trips that highlight local marine ecosystems (e.g., rocky intertidal zone, tidal marsh, sandy beach, pelagic invertebrate collections) and hands-on activities that involve the use of real scientific data collected by local research platforms and programs (e.g., SIO pier data, California long-term monitoring sites). Students work on a final project that involves the creative implementation of science communication principles: students select a non-technical format (e.g., children's storybook, board game) to present scientific data and information about a particular marine ecosystem.
 
 ## 2024
 
-### Marine Ecosystem Dynamics
+### Ocean Ecosystem Dynamics
 
 *UC San Diego Academic Connections Pre-College Course, Online*
   * *Course Description*: This course is designed to introduce students to the biological and physical dynamics of ocean ecosystems. This class will explain “who” lives in the oceans, “what” types of organisms they are, “why” they live there, and “how” the ocean environment supports life. This class will describe a wide scope of marine life, from microscopic organisms (bacteria) to the planet’s largest animals (blue whales). We will also discuss the most important requirements for life in an ocean environment, including physical variables such as light and oxygen, and biological variables, such as predators and prey. Finally, this class will cover the impacts of human activity and climate change on a few key marine ecosystems. Through lectures and group discussions, students will be introduced to several marine ecosystems. To synthesize the information learned in class, students will choose any marine ecosystem that interests them, and in an individual presentation, they will articulate the “who, what, how, and why” of life in that ecosystem, as well as the current impacts of human activity/climate change it faces.
