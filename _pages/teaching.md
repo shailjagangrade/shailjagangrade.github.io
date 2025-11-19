@@ -27,7 +27,7 @@ author_profile: true
 
 ## 2024
 
-### Marine Ecosystem Dynamics**
+### Marine Ecosystem Dynamics
 
 *UC San Diego Academic Connections Pre-College Course, Online*
   * *Course Description*: This course is designed to introduce students to the biological and physical dynamics of ocean ecosystems. This class will explain “who” lives in the oceans, “what” types of organisms they are, “why” they live there, and “how” the ocean environment supports life. This class will describe a wide scope of marine life, from microscopic organisms (bacteria) to the planet’s largest animals (blue whales). We will also discuss the most important requirements for life in an ocean environment, including physical variables such as light and oxygen, and biological variables, such as predators and prey. Finally, this class will cover the impacts of human activity and climate change on a few key marine ecosystems. Through lectures and group discussions, students will be introduced to several marine ecosystems. To synthesize the information learned in class, students will choose any marine ecosystem that interests them, and in an individual presentation, they will articulate the “who, what, how, and why” of life in that ecosystem, as well as the current impacts of human activity/climate change it faces.
@@ -43,4 +43,4 @@ author_profile: true
 ### Ocean Warming & Ocean Acidification
 
 *[Stay Cool for Grandkids](https://staycool4grandkids.org) Ocean Climate Science Program*
-  * *Course Description*: This course introduced middle-school students in San Diego County to the concepts of ocean warming and ocean acidification. Students were guided to interpret plots of ocean temperature & pH, and to discuss the broader ecological and societal implications of anthropogenic climate change. Students were also guided through hands-on demonstrations involving Argo floats and pH-change experiments. While most of these lessons took place in person, during the COVID-19 pandemic, Shailja recorded and online version of the Ocean Warming lesson (see below).
+  * *Course Description*: This course introduced middle-school students in San Diego County to the concepts of ocean warming and ocean acidification. Students were guided to interpret plots of ocean temperature & pH, and to discuss the broader ecological and societal implications of anthropogenic climate change. Students were also guided through hands-on demonstrations involving Argo floats and pH-change experiments.
