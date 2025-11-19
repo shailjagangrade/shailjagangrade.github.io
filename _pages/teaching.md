@@ -1,5 +1,5 @@
 ---
-permalink: /teaching-outreach/
+permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
