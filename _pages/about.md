@@ -19,7 +19,7 @@ Shailja's [current research](https://shailjagangrade.github.io/research/) contin
 
 <center><p align="center" style="max-width:50%;"><img src="../images/SCOPE_Event_20220715_3.jpg" /></p></center>
 
-Shailja's [teaching](https://shailjagangrade.github.io/teaching/) is centered around marine ecosystem dynamics, but her varied academic background stimulates her excitement to teach courses throughout the earth, environmental, and ocean science fields. In her teaching, Shailja prioritizes a student-centered learning environment that incorporates place-based learning, and she aims to foster a genuine sense of wonder and joy, coupled with a scientific dynamical mindset in students.
+Shailja's [teaching](https://shailjagangrade.github.io/teaching/) is centered around marine ecosystem dynamics, but her interdiscplinary academic background stimulates her excitement to teach courses throughout the earth, environmental, and ocean sciences. In her teaching, Shailja prioritizes a student-centered environment that incorporates place-based learning, and she aims to foster a genuine sense of wonder and joy, coupled with a scientific dynamical mindset, in students.
 
 <!-- <center><p align="center" style="max-width:50%;"><img src="../images/front-schematic-Gangrade-Mangolte-2024.png" /></p></center> -->
 
