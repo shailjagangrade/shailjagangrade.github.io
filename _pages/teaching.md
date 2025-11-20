@@ -56,4 +56,4 @@ author_profile: true
 *[Stay Cool for Grandkids](https://staycool4grandkids.org) Ocean Climate Science Program (co-instructor)*
   * *Course Description*: This course introduced middle-school students in San Diego County to the concepts of ocean warming and ocean acidification. Students were guided to interpret plots of ocean temperature & pH, and to discuss the broader ecological and societal implications of anthropogenic climate change. Students were also guided through hands-on demonstrations involving Argo floats and pH-change experiments.
 
-<center><p align="center" style="max-width:25%;"><img src="../images/Shailja_STAY_COOL_Argo.jpg" /> <em> Shailja demonstrates how an ARGO float is used to sample ocean temperatures. </em> </p> </center>
+<center><p align="center" style="max-width:40%;"><img src="../images/Shailja_STAY_COOL_Argo.jpg" /> <em> Shailja demonstrates how an ARGO float is used to sample ocean temperatures. </em> </p> </center>
