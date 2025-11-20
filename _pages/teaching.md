@@ -20,7 +20,7 @@ author_profile: true
 
 ## 2025
 
-### Undegraduate Research Fundamentals & Professional Development
+### Undergraduate Research Fundamentals & Professional Development
 *Brown University DEEPS REU Program (co-instructor)*
   * *Description*: Shailja and two graduate students developed and led a workshop series for summer undergraduate research interns. The workshop guided students through various steps of the research process, including reading sceintific articles, formulating hypotheses, writing abstracts, and composing posters and oral presentations. The workshop leaders also organized and moderated professional development opportunities, including graduate student and faculty panels, and provided supplemental research mentorship support.
 
@@ -31,10 +31,12 @@ author_profile: true
 *UC San Diego Academic Connections Pre-College Course, In-Person (sole, lead instructor)*
   * *Course Description*: During this course, students are introduced to the biological and physical dynamics of ocean ecosystems. In particular, we explore the key physical, biological, and chemical characteristics of a variety of ocean ecosystems (e.g., coral reef, open ocean, deep-sea whale fall), as well as important interactions and relationships between organisms. This course includes field trips that highlight local marine ecosystems (e.g., rocky intertidal zone, tidal marsh, sandy beach, pelagic invertebrate collections) and hands-on activities that involve the use of real scientific data collected by local research platforms and programs (e.g., SIO pier data, California long-term monitoring sites). Students work on a final project that involves the creative implementation of science communication principles: students select a non-technical format (e.g., children's storybook, board game) to present scientific data and information about a particular marine ecosystem.
 
+<center><p align="center" style="max-width:65%;"><img src="../images/oed-2024-class-projects.JPG" /></p></center>
+
 ### Undergraduate Seminar: Perspectives on Ocean Sciences
 
 *Scripps Institution of Oceanography, UC San Diego - SIO 90 (sole, lead instructor)*
-  * *Course Description*: Scripps Institution of Oceanography (SIO) is a nexus of interdisciplinary science and knowledge, ranging from field-based marine biology to modeling-based climate science. This undergraduate seminar hosts a different speaker each week, exposing students to the variety of research conducted at SIO. Weekly seminars are supplemented by instructor-led workshops on professional development (e.g., applying for  internships, networking, how to contact faculty, etc.). This seminar course also culminated in a field trip to the SIO Research Pier.
+  * *Course Description*: Scripps Institution of Oceanography (SIO) is a nexus of interdisciplinary science and knowledge, ranging from field-based marine biology to modeling-based climate science. This undergraduate seminar hosts a different speaker each week, exposing students to the variety of research conducted at SIO. Weekly seminars are supplemented by instructor-led workshops on professional development (e.g., applying for  internships, networking, how to contact faculty, etc.). This seminar course also culminates in a field trip to the SIO Research Pier.
 
 ## 2023
 
@@ -43,6 +45,7 @@ author_profile: true
 *UC San Diego Academic Connections Pre-College Course, Online (sole, lead instructor)*
   * *Course Description*: This course is designed to introduce students to the biological and physical dynamics of ocean ecosystems. This class will explain “who” lives in the oceans, “what” types of organisms they are, “why” they live there, and “how” the ocean environment supports life. This class will describe a wide scope of marine life, from microscopic organisms (bacteria) to the planet’s largest animals (blue whales). We will also discuss the most important requirements for life in an ocean environment, including physical variables such as light and oxygen, and biological variables, such as predators and prey. Finally, this class will cover the impacts of human activity and climate change on a few key marine ecosystems. Through lectures and group discussions, students will be introduced to several marine ecosystems. To synthesize the information learned in class, students will choose any marine ecosystem that interests them, and in an individual presentation, they will articulate the “who, what, how, and why” of life in that ecosystem, as well as the current impacts of human activity/climate change it faces.
 
+<center><p align="center" style="max-width:65%;"><img src="../images/oed-class-tide-pool-2024.jpeg" /></p></center>
 
 ## 2020-2023
 
