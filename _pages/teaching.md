@@ -9,6 +9,8 @@ author_profile: true
 
 > My primary goal as an instructor is to demystify the ocean by helping students build a fundamental and nuanced understanding of the ocean as an interconnected and dynamic system. Students arrive in the classroom with a wide range of exposure to and previous knowledge about the ocean: some live in land-locked regions and have only witnessed the ocean through popular media; others are avid surfers, snorkelers, or fishers. By using this spectrum of experiences as points of reflection, embedded in course discussion and activities, I encourage students to consider marine ecosystems from different societal and scientific perspectives. Ultimately, I want students to walk away from my courses with a sense of joy and wonder, but also an idea of how they might be able to interact, study, or examine marine ecosystems with a science-driven, dynamical mindset.
 
+<center><p align="center" style="max-width:50%;"><img src="../images/oed-beach-tour-2024.jpeg" /></p></center>
+
 # Courses
 ----------
 
