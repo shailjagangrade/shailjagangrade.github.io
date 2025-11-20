@@ -31,8 +31,3 @@ Extreme precipitation events on land can result in high amounts of freshwater di
 <center><p align="center">Image credit: NOAA and LA Times</p></center>
 
 <!-- <center><p align="center" style="max-width:50%;"><img src="../images/california_flooding_DavidMcNew_GettyImages.jpg" /></p></center> -->
-
-
- <!-- How the ocean feeds us
-------
-How do regional ocean dynamics play a role in sustaining robust commercial and subsistence fisheries? In regions such as Alaska and Rhode Island, changing land and ocean conditions lead to spatiotemporal shifts in  food sources, such as salmon and shellfish. Shailja's teaching incorporates experiential studies of the  physical and biogeochemical dynamics of ecosystems that local and native communities rely on for food security. To learn more, visit the [Teaching](https://shailjagangrade.github.io/teaching/) page. -->
