@@ -33,10 +33,7 @@ author_profile: true
 *UC San Diego Academic Connections Pre-College Course, In-Person (sole, lead instructor)*
   * *Course Description*: During this course, students are introduced to the biological and physical dynamics of ocean ecosystems. In particular, we explore the key physical, biological, and chemical characteristics of a variety of ocean ecosystems (e.g., coral reef, open ocean, deep-sea whale fall), as well as important interactions and relationships between organisms. This course includes field trips that highlight local marine ecosystems (e.g., rocky intertidal zone, tidal marsh, sandy beach, pelagic invertebrate collections) and hands-on activities that involve the use of real scientific data collected by local research platforms and programs (e.g., SIO pier data, California long-term monitoring sites). Students work on a final project that involves the creative implementation of science communication principles: students select a non-technical format (e.g., children's storybook, board game) to present scientific data and information about a particular marine ecosystem.
 
-<!-- <center><p align="center" style="max-width:65%;"><img src="../images/oed-2024-class-projects.JPG" /> <em> Sample student final projects from Ocean Ecosystem Dynamics course. </em> </p></center> -->
-
-![projects](../images/oed-2024-class-projects.JPG)
-![plankton](../images/oed-plankton-prototypes-2024.JPG)
+<center><p align="center" style="max-width:65%;"><img src="../images/oed-2024-class-projects.JPG" /> <em> Sample student final projects from Ocean Ecosystem Dynamics course. </em> </p></center>
 
 ### Undergraduate Seminar: Perspectives on Ocean Sciences
 
@@ -59,4 +56,4 @@ author_profile: true
 *[Stay Cool for Grandkids](https://staycool4grandkids.org) Ocean Climate Science Program (co-instructor)*
   * *Course Description*: This course introduced middle-school students in San Diego County to the concepts of ocean warming and ocean acidification. Students were guided to interpret plots of ocean temperature & pH, and to discuss the broader ecological and societal implications of anthropogenic climate change. Students were also guided through hands-on demonstrations involving Argo floats and pH-change experiments.
 
-<center><p align="center" style="max-height:50%;"><img src="../images/Shailja_STAY_COOL_Argo.jpg" /> <em> Shailja demonstrates how an ARGO float is used to sample ocean temperatures. </em> </p></center>
+<center><p align="center" style="max-width:25%;"><img src="../images/Shailja_STAY_COOL_Argo.jpg" /> <em> Shailja demonstrates how an ARGO float is used to sample ocean temperatures. </em> </p> </center>
