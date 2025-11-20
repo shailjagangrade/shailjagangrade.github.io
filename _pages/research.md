@@ -7,7 +7,7 @@ author_profile: true
 
 Land-Sea Connections: Investigating Ecosystem Transitions Across Ocean Margins
 ======
-Shailja's research employs oceanographic observations to investigate planktonic ecosystem dynamics from river-influenced coastal waters to the offshore open ocean. Shailja's  [teaching](https://shailjagangrade.github.io/teachin/g) also centers around marine ecosystem dynamics, in particular the exploration of how ecosystems are shaped by environmental conditions and gradients -- as well as human impacts.
+Shailja's research employs oceanographic observations to investigate planktonic ecosystem dynamics from river-influenced coastal waters to the offshore open ocean. Shailja's  [teaching](https://shailjagangrade.github.io/teaching/) also centers around marine ecosystem dynamics, in particular the exploration of how ecosystems are shaped by environmental conditions and gradients -- as well as human impacts.
 
 Coastal upwelling dynamics & phytoplankton communities
 ------
