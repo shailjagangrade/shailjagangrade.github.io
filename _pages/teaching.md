@@ -24,7 +24,7 @@ author_profile: true
 
 ### Undergraduate Research Fundamentals & Professional Development
 *Brown University DEEPS REU Program (co-instructor)*
-  * *Description*: Shailja and two graduate students developed and led a workshop series for summer undergraduate research interns. The workshop guided students through various steps of the research process, including reading sceintific articles, formulating hypotheses, writing abstracts, and composing posters and oral presentations. The workshop leaders also organized and moderated professional development opportunities, including graduate student and faculty panels, and provided supplemental research mentorship support.
+  * *Description*: Shailja and two graduate students developed and led a workshop series for summer undergraduate research interns. The workshop guided students through various steps of the research process, including reading scientific articles, formulating hypotheses, writing abstracts, and composing posters and oral presentations. The workshop leaders also organized and moderated professional development opportunities, including graduate student and faculty panels, and provided supplemental research mentorship support.
 
 ## 2024
 
