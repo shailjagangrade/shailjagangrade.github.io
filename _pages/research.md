@@ -11,7 +11,7 @@ Shailja's research employs oceanographic observations to investigate planktonic 
 
 Coastal upwelling dynamics & phytoplankton communities
 ------
-Wind-driven coastal upwelling is spatially and temporally dynamic. Upwelling-favorable winds drives "pulses" of nutrient-rich water into the sunlit water column. This process results in the development of phytoplankton patches at the coast that are rapidly transported offshore. Identifying the location and composition of these patches is important in diagnoising potential ecological hotspots and feeding grounds for zooplankton, fishes, seabirds, and marine mammals.
+Wind-driven coastal upwelling is spatially and temporally dynamic. Upwelling-favorable winds drive "pulses" of nutrient-rich water into the sunlit water column. This process results in the development of phytoplankton patches at the coast that are rapidly transported offshore. Identifying the location and composition of these patches is important in diagnoising potential ecological hotspots and feeding grounds for zooplankton, fishes, seabirds, and marine mammals.
 
 <center><p align="center" style="max-width:75%;"><img src="../images/front-schematic-Gangrade-Franks-2023.png" /></p></center>
 
@@ -28,7 +28,7 @@ Swirling ocean currents are able to tranport passively drifting plankton hundred
 
 Relevant publications & upcoming presentations:
   * Gangrade, S. and Mangolte, I. (2024), Patchiness of plankton communities at fronts explained by Lagrangian history of upwelled water parcels. Limnol Oceanogr, 69: 2123-2137. [https://doi.org/10.1002/lno.12654](https://doi.org/10.1002/lno.12654)
-  * Stukel. M.R., Allen, A.E, Barbeau, K.A., Chabert, P., Dovel S., Gangrade, S., Kranz, S.A., Lampe, R.H., Landry, M.R., Marrec, P., Messie, M., Miller, A.J., Wilkinson, G., & Ohman, M.D. (2025), Disturbance ecol- ogy in a pelagic upwelling biome: Lagrangian frameworks for studying succession, BioScience, 2025;, biaf144, [https://doi.org/10.1093/biosci/biaf144](https://doi.org/10.1093/biosci/biaf144)
+  * Stukel. M.R., Allen, A.E, Barbeau, K.A., Chabert, P., Dovel S., Gangrade, S., Kranz, S.A., Lampe, R.H., Landry, M.R., Marrec, P., Messie, M., Miller, A.J., Wilkinson, G., & Ohman, M.D. (2025), Disturbance ecology in a pelagic upwelling biome: Lagrangian frameworks for studying succession, BioScience, 2025;, biaf144, [https://doi.org/10.1093/biosci/biaf144](https://doi.org/10.1093/biosci/biaf144)
   * Gangrade, S., Freilich, M. A., Omand, M. M., Beaudin, E. (2026). Ecological responses of planktonic communities to submesoscale ocean eddy stirring and mixing. Ocean Sciences Meeting, Glasgow, Scotland. [https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2025926](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2025926)
 
 Ecological impacts of extreme terrestrial precipitation 
