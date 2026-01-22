@@ -26,7 +26,7 @@ author_profile: true
 *Brown University DEEPS REU Program (co-instructor)*
   * *Description*: Shailja and two graduate students developed and led a workshop series for summer undergraduate research interns. The workshop guided students through various steps of the research process, including reading scientific articles, formulating hypotheses, writing abstracts, and composing posters and oral presentations. The workshop leaders also organized and moderated professional development opportunities, including graduate student and faculty panels, and provided supplemental research mentorship support.
 
-<center><p align="center" style="max-width:75%;"><img src="../images/DEEPS-REU-Symposium-July2025.JPG" /></p></center>
+<center><p align="center" style="max-width:50%;"><img src="../images/DEEPS-REU-Symposium-July2025.JPG" /></p></center>
 
 ## 2024
 
