@@ -12,9 +12,9 @@ Shailja's research employs oceanographic observations to investigate planktonic 
 Effects of stormwater runoff and industrial contamination on microbial communities and water quality
 ------
 Legacy and modern pollution in the Port of Providence has disproportionately affected neighboring communities. Heavy metal contaminants, industrial dust, and petrochemical substances have been persistently identified; however, levels of these constituents are typically not publicly reported, or simply remain unmonitored. Community members have also raised concerns over public shoreline access points being particularly "dangerous" during storm events, when runoff generates "oily slicks" in the water. In response and in collaboration with The People's Port Authority, a grassroots environmental advocacy group, a team of Brown researchers (Gangrade, Freilich, Ibarra, & Hastings) have been developing a community-powered environmental monitoring program called WaterSpeak. As an Equitable Climate Futures Postdoctoral Fellow, Shailja is coordinating community sampling events, developing  technical and non-technical reports, and exploring the effects of storm events on water quality and microbial community composition.  
-<center><p align="center" style="max-width:75%;"><img src="../images/PublicSt-Overhead-Shot.jpeg" /> <em> Image credit: NOAA and LA Times </em> </p></center>
+<center><p align="center" style="max-width:75%;"><img src="../images/PublicSt-Overhead-Shot.jpeg" /> <em> Art installation by Eli Nixon at the Public Street Right of Way in South Providence. Photo Credit: Dominique Sindayiganza </em> </p></center>
 
-Ecological impacts of extreme terrestrial precipitation 
+Coastal ecosystem impacts of extreme terrestrial precipitation 
 ------
 Extreme precipitation events on land can result in high amounts of freshwater discharge into the ocean, with important implications for nutrient and carbon cycling. By using a combination of physical and biogeochemical measurements, we can evaluate how freshwater communities might be distinct from surrounding ocean waters, and we can characterize the rapid transport of such waters into offshore oligotrophic (low-nutrient) regions.
 
