@@ -14,7 +14,7 @@ author_profile: true
 # Courses
 ----------
 
-## 2026 (Expected)
+## 2026, 2027 (Expected)
 ### How the Ocean Feeds Alaska: Investigating Marine Ecosystem Dynamics
 
 *Brown University Environmental Leadership Lab Course (sole, lead instructor)*
