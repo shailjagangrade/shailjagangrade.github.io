@@ -21,6 +21,7 @@ Extreme precipitation events on land can result in high amounts of freshwater di
 <center><p align="center" style="max-width:75%;"><img src="../images/atmospheric_river_NOAA_LATimes.jpeg" /> <em> Image credit: NOAA and LA Times </em> </p></center>
 
 Relevant publications & upcoming presentations:
+ * Gangrade, S., et al. (2026), Open ocean biogeochemical impacts of extreme terrestrial precipitation, in review. Geophysical Research Letters. [https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2040489](https://doi.org/10.31223/X5DJ0N)
   * Freilich, M. A., Gangrade, S., et al. (2026), Submesoscale Eddy Dispersion Affects Community Composition and Biogeochemistry Beyond the Coastal Upwelling Zone. Ocean Sciences Meeting, Glasgow, Scotland. [https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2040489](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2040489)
 
 Coastal upwelling dynamics & phytoplankton communities
