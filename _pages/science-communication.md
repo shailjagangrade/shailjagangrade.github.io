@@ -7,14 +7,14 @@ author_profile: true
 # _WaterSpeak: A Community-Powered Environmental Monitoring Program_
 
 ## Water Quality Data Explorations
-Through collaboration with the [People's Port Authority]([url](https://www.peoplesportauthority.org/)), we have been engaging with a multi-generational community cohort to build an environmental monitoring and sampling program in Providence, Rhode Island. Together, we have developed a regular water quality sampling strategy and have been working to establish and improve scientific literacy within the cohort.
+Through collaboration with the [People's Port Authority](https://www.peoplesportauthority.org/), we have been engaging with a multi-generational community cohort to build an environmental monitoring and sampling program in Providence, Rhode Island. Together, we have developed a regular water quality sampling strategy and have been working to establish and improve scientific literacy within the cohort.
 
 <center><p align="center" style="max-width:60%;"><img src="../images/instrument-demo-July2026.jpeg" /> <em> Community scientists learning how water quality sampling instruments function and measuring some test samples. </em> </p></center>
 
 <center><p align="center" style="max-width:60%;"><img src="../images/data-activity-Aug2026.jpeg" /> <em> Community cohort engaging with water quality data, constructing a time-series plot of chlorophyll (algae concentration) at Public Street Shoreline Access from summer 2026 </em> </p></center>
 
 ## WaterSpeak Art Collective
-Supported by a [Skype A Scientist]([url](https://www.skypeascientist.com/)) Science Communication grant, we have created opportunities for community members to explore their personal connections with water, the shoreline, and the Port of Providence neighborhood.
+Supported by a [Skype A Scientist](https://www.skypeascientist.com/) Science Communication grant, we have created opportunities for community members to explore their personal connections with water, the shoreline, and the Port of Providence neighborhood.
 
 <center><p align="center" style="max-width:60%;"><img src="../images/art-activity-June2026.jpeg" /> <em> Youth engaging with craft materials to construct a map of the Port of Providence neighborhood, highlighting the places and symbols that resonate with them. </em> </p></center>
 
@@ -28,5 +28,5 @@ As an outreach coordinator, Shailja developed and executed public tours and educ
 <center><p align="center" style="max-width:60%;"><img src="../images/birch-aquarium-outreach-2024.jpeg" /> <em> Shailja, with Jamee Adams (right), presenting about plankton ecology and oceanographic sampling at Birch Aquarium at Scripps public event. </em> </p></center>
 
 ## ASLO Journalist for a Day – Article Feature
-Shailja participated in the ASLO Journalist for a Day program and had the opportunity to interview researchers at the 2020 Ocean Sciences Meeting and write a research feature article, published in the Limnology and Oceanography Letters journal. The article can be found [here]([url](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lob.10387)).
+Shailja participated in the ASLO Journalist for a Day program and had the opportunity to interview researchers at the 2020 Ocean Sciences Meeting and write a research feature article, published in the Limnology and Oceanography Letters journal. The article can be found [here](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lob.10387).
 
