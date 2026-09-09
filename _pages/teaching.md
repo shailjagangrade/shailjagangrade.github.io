@@ -20,6 +20,8 @@ author_profile: true
 *Brown University Environmental Leadership Lab Course (sole, lead instructor)*
   * *Course Description*: During this course, we  explore fundamental concepts in marine ecology and oceanography to assess how the ocean around Alaska supports critical commercial fisheries and subsistence living practices. Through a combination of lectures, data explorations, and site visits, students gain a technical understanding of coastal Alaskan ecosystems and collect traditional ecological knowledge, ultimately applying these perspectives to evaluate how changing climate conditions affect communities that rely on the ocean for food.
 
+<center><p align="center" style="max-width:60%;"><img src="../images/alaska-sealife-center-seabird-viewing-1.jpeg" /> <em> Students conducting a seabird survey in Seward, Alaska with the Alaska Sealife Center research team. </em> </p></center>
+
 ## 2025
 
 ### Undergraduate Research Fundamentals & Professional Development
