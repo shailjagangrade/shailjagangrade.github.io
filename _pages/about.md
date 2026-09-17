@@ -13,7 +13,7 @@ Shailja Gangrade (pronounced "SHELL-ja Gung-RAH-day") is a biological oceanograp
 
 <center><p align="center" style="max-width:65%;"><img src="../images/cruise-net-deployment-may-2024.jpg" /></p></center>
 
-Shailja's [current research](https://shailjagangrade.github.io/research/) continues to focus on the physical and biological controls on plankton ecosytems across ocean margins (from coastal to offshore regions). Her work incorporates fieldwork on research vessels to collect physical and biogeochemical observations, as well as analysis of  in situ and remote sensing measurements. Shailja's current postdoctoral work, through the [NASA S-MODE](https://espo.nasa.gov/s-mode) program, explores the composition of microbial communities within submesoscale eddies and the influence of extreme terrestrial precipitation on open-ocean microbial ecosystems.
+Shailja's [current research](https://shailjagangrade.github.io/research/) continues to focus on the physical and biological controls on plankton ecosytems across ocean margins (from coastal to offshore regions). Shailja conducts fieldwork in estuaries and open-ocean systems on boats and research vessels, in collaboration with the Brown University [Equitable Climate Futures Initiative](https://ecf.brown.edu/), the [Ocean Margins Initiative](https://oceanmargins.org/), and [NASA S-MODE](https://espo.nasa.gov/s-mode). Through these collaborations, Shailja explores the composition of planktonic and microbial communities and the influence of precipitation on coastal and ocean ecosystems.
 
 <!-- <center><p align="center" style="max-width:50%;"><img src="../images/ooca-conference-poster-2024.jpeg" /></p></center> -->
 
