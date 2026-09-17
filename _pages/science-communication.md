@@ -13,6 +13,8 @@ Through collaboration with the [People's Port Authority](https://www.peoplesport
 
 <center><p align="center" style="max-width:60%;"><img src="../images/data-activity-Aug2026.jpeg" /> <em> Community cohort engaging with water quality data, constructing a time-series plot of chlorophyll (algae concentration) at Public Street Shoreline Access from summer 2026 </em> </p></center>
 
+<center><p align="center" style="max-width:40%;"><img src="../images/Water Quality Cheat Sheet.png" /> <em> Water quality parameter "cheat sheet," used for community event demonstrations, designed and produced by Shailja Gangrade. </em> </p></center>
+
 ## WaterSpeak Art Collective
 Supported by a [Skype A Scientist](https://www.skypeascientist.com/) Science Communication grant, we have created opportunities for community members to explore their personal connections with water, the shoreline, and the Port of Providence neighborhood.
 
