@@ -11,7 +11,7 @@ Shailja's research employs oceanographic observations to investigate planktonic 
 
 Effects of stormwater runoff and industrial contamination on microbial communities and water quality
 ------
-Legacy and modern pollution in the Port of Providence has disproportionately affected neighboring communities. Heavy metal contaminants, industrial dust, and petrochemical substances have been persistently identified; however, levels of these constituents are typically not publicly reported, or simply remain unmonitored. Community members have also raised concerns over public shoreline access points being particularly "dangerous" during storm events, when runoff generates "oily slicks" in the water. In response and in collaboration with The People's Port Authority, a grassroots environmental advocacy group, a team of Brown researchers (Gangrade, Freilich, Ibarra, & Hastings) have been developing a community-powered environmental monitoring program called WaterSpeak. As an Equitable Climate Futures Postdoctoral Fellow, Shailja is coordinating community sampling events, developing  technical and non-technical reports, and exploring the effects of storm events on water quality and microbial community composition.  
+Legacy and modern pollution in the Port of Providence has disproportionately affected neighboring communities. Heavy metal contaminants, industrial dust, and petrochemical substances have been persistently identified; however, levels of these constituents are typically not publicly reported, or simply remain unmonitored. Community members have also raised concerns over public shoreline access points being particularly "dangerous" during storm events, when runoff generates "oily slicks" in the water. In response and in collaboration with The People's Port Authority, a grassroots environmental advocacy group, a team of Brown researchers (S. Gangrade, M. Freilich, M. Hastings, D. Ibarra, & K. Schapira) have been developing a community-powered environmental monitoring program called WaterSpeak. As an Equitable Climate Futures Postdoctoral Fellow, Shailja is coordinating community sampling events, developing  technical and non-technical reports, and exploring the effects of storm events on water quality and microbial community composition.  
 <center><p align="center" style="max-width:75%;"><img src="../images/PublicSt-Overhead-Shot.jpeg" /> <em> Art installation by Eli Nixon at the Public Street Right of Way in South Providence. Photo Credit: Dominique Sindayiganza </em> </p></center>
 
 **What does our water sampling look like? View the video below!**
@@ -23,9 +23,8 @@ Extreme precipitation events on land can result in high amounts of freshwater di
 
 <center><p align="center" style="max-width:75%;"><img src="../images/atmospheric_river_NOAA_LATimes.jpeg" /> <em> Image credit: NOAA and LA Times </em> </p></center>
 
-Relevant publications & upcoming presentations:
- * Gangrade, S., et al. (in review), Open ocean biogeochemical impacts of extreme terrestrial precipitation. Geophysical Research Letters. [https://doi.org/10.31223/X5DJ0N](https://doi.org/10.31223/X5DJ0N)
-  * Freilich, M. A., Gangrade, S., et al. (2026), Submesoscale Eddy Dispersion Affects Community Composition and Biogeochemistry Beyond the Coastal Upwelling Zone. Ocean Sciences Meeting, Glasgow, Scotland. [https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2040489](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2040489)
+Relevant publications:
+ * Gangrade, S., Freilich, M.A., Beaudin, É., Luis, K.M.A., Leyba, I.M., Omand, M.M., et al. (2026). Open ocean biogeochemical impacts of extreme terrestrial precipitation. Geophysical Research Letters, 53, e2026GL122966. [https://doi.org/10.1029/2026GL122966](https://doi.org/10.1029/2026GL122966)
 
 Coastal upwelling dynamics & phytoplankton communities
 ------
@@ -44,10 +43,9 @@ Swirling ocean currents are able to tranport passively drifting plankton hundred
 
 <center><p align="center" style="max-width:50%;"><img src="../images/front-schematic-Gangrade-Mangolte-2024.png" /></p></center>
 
-Relevant publications & upcoming presentations:
+Relevant publications:
   * Gangrade, S. and Mangolte, I. (2024), Patchiness of plankton communities at fronts explained by Lagrangian history of upwelled water parcels. Limnol Oceanogr, 69: 2123-2137. [https://doi.org/10.1002/lno.12654](https://doi.org/10.1002/lno.12654)
   * Stukel. M.R., Allen, A.E, Barbeau, K.A., Chabert, P., Dovel S., Gangrade, S., Kranz, S.A., Lampe, R.H., Landry, M.R., Marrec, P., Messie, M., Miller, A.J., Wilkinson, G., & Ohman, M.D. (2025), Disturbance ecology in a pelagic upwelling biome: Lagrangian frameworks for studying succession, BioScience, 2025;, biaf144, [https://doi.org/10.1093/biosci/biaf144](https://doi.org/10.1093/biosci/biaf144)
-  * Gangrade, S., Freilich, M. A., Omand, M. M., Beaudin, E. (2026). Ecological responses of planktonic communities to submesoscale ocean eddy stirring and mixing. Ocean Sciences Meeting, Glasgow, Scotland. [https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2025926](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2025926)
 
 
 <!-- <center><p align="center" style="max-width:50%;"><img src="../images/california_flooding_DavidMcNew_GettyImages.jpg" /></p></center> -->
